@@ -4,7 +4,9 @@ Handwritten digit recognition using the MNIST dataset is a major project made wi
 # Output-
 
 
-https://github.com/PritamlovesTech/Handwritten_digit_recognition_using_MNIST/assets/146342171/00cb8bc6-5f2d-45a6-9bb7-5499aec2c48f
+https://github.com/PritamlovesTech/Handwritten_digit_recognition_using_MNIST/assets/146342171/43eb9ddd-62a9-45b6-b25a-a381ee099a58
+
+
 
 
 
